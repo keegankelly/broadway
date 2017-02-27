@@ -1,0 +1,58 @@
+* {
+  text-align: center;
+}
+
+.broadway {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.link {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.paragraph {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.foot {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+footer {
+  background-color: dimgray;
+  display: inline;
+  color: black;
+}
+
+.border {
+  background-image: url("/Users/keegankelly/broadway/css/the-flatiron-building.jpg");
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#home {
+  background-image: url("/Users/keegankelly/broadway/css/the-flatiron-building.jpg");
+}
+
+a {
+  color: white;
+}
